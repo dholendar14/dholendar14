@@ -1,4 +1,4 @@
-### Hi there, I'm ${dholendar reddy} 👋
+### Hi there, I'm ${your.username}.${your.repo.id} 👋
 
 I am a computer science student. I love programming, reading and playing games.
 
@@ -10,4 +10,4 @@ Talking about my Stuff:
 - 🌱 I’m currently learning java and data structure...
 - 💬 Ask me about anything...
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dholendar14&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

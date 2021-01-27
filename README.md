@@ -1,4 +1,4 @@
-### Hi there, I'm ${your.username}.${your.repo.id} 👋
+### Hi there, I'm [venkatasai dholendar reddy](www.github.com/dholendar14)👋
 
 I am a computer science student. I love programming, reading and playing games.
 
